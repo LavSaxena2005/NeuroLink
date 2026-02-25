@@ -1,4 +1,6 @@
 streamlit
 pandas
-matplotlib
 textblob
+google-generativeai
+python-dotenv
+matplotlib
