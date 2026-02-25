@@ -1,0 +1,10 @@
+date,text,mood,score
+2026-02-26 00:33:35.786207,I'm feeling great today!,Very Positive,1.0
+2026-02-26 00:34:38.353781,I feel amazing today! I completed all my tasks and I’m very motivated to keep going.,Very Positive,0.4750000000000001
+2026-02-26 00:35:31.927040,I feel a bit stressed about my exams but I think I can manage if I focus properly.,Neutral,0.0
+2026-02-26 00:36:20.319362,Everything feels overwhelming. I can't concentrate and I feel exhausted and frustrated.,Negative,-0.1999999999999999
+2026-02-26 00:37:16.001055,It’s just an ordinary day. Nothing special happened.,Neutral,0.0535714285714285
+2026-02-26 00:38:03.485825,I am extremely excited about my new project and I feel very productive today!,Positive,0.2537878787878788
+2026-02-26 00:38:25.230263,I feel like ending my life.,Neutral,0.0
+2026-02-26 00:38:29.407288,I feel like ending my life.,Neutral,0.0
+2026-02-26 00:38:58.179694,I feel like ending my life  MEAN DEATH .,Negative,-0.3125
