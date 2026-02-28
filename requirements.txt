@@ -4,3 +4,4 @@ matplotlib
 textblob
 deepface
 opencv-python
+google-generativeai
